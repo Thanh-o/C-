@@ -66,7 +66,7 @@ namespace Atom
                     {
                         while (reader.Read())
                         {
-                            Console.WriteLine($"{reader["id"],1} {reader["symbol"],1} {reader["full_name"],1} {reader["weight"],1}");
+                            Console.WriteLine($"{reader["id"]} {reader["symbol"]} {reader["full_name"]} {reader["weight"]}");
                         }
                     }
                 }
