@@ -17,24 +17,24 @@ namespace Atom
             {
                 Atom atom = new Atom();
 
-                Console.WriteLine("Enter atomic number  : ");
+                Console.Write("Enter atomic number  : ");
                 atom.Id = Convert.ToInt32(Console.ReadLine());
                 if (atom.Id == 0) break;
 
-                Console.WriteLine("Enter symbol  : ");
+                Console.Write("Enter symbol  : ");
                 atom.Symbol = Console.ReadLine();
-                Console.WriteLine("Enter full name  : ");
+                Console.Write("Enter full name  : ");
                 atom.FullName = Console.ReadLine();
-                Console.WriteLine("Enter atomic weight  : ");
+                Console.Write("Enter atomic weight  : ");
                 atom.Weight = Convert.ToDouble(Console.ReadLine());
 
-                SaveAtomToDatabase(atom);
+                Save(atom);
             }
 
             DisplayAllAtoms();
         }
 
-        public static void SaveAtomToDatabase(Atom atom)
+        public static void Save(Atom atom)
         {
             using (MySqlConnection db = new MySqlConnection(connectionString))
             {
