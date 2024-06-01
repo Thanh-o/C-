@@ -1791,11 +1791,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Thành\\GitHub\\sem2\\pro3\\pro3.csproj",
+      "projectUniqueName": "C:\\Thành\\GitHub\\sem2\\C#\\pro3\\pro3.csproj",
       "projectName": "pro3",
-      "projectPath": "C:\\Thành\\GitHub\\sem2\\pro3\\pro3.csproj",
+      "projectPath": "C:\\Thành\\GitHub\\sem2\\C#\\pro3\\pro3.csproj",
       "packagesPath": "C:\\Users\\Nguyen Trung Thanh\\.nuget\\packages\\",
-      "outputPath": "C:\\Thành\\GitHub\\sem2\\pro3\\obj\\",
+      "outputPath": "C:\\Thành\\GitHub\\sem2\\C#\\pro3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nguyen Trung Thanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
