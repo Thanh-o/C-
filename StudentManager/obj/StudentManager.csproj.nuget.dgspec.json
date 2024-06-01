@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Thành\\GitHub\\sem2\\StudentManager\\StudentManager.csproj": {}
+    "C:\\Thành\\GitHub\\sem2\\C#\\StudentManager\\StudentManager.csproj": {}
   },
   "projects": {
-    "C:\\Thành\\GitHub\\sem2\\StudentManager\\StudentManager.csproj": {
+    "C:\\Thành\\GitHub\\sem2\\C#\\StudentManager\\StudentManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Thành\\GitHub\\sem2\\StudentManager\\StudentManager.csproj",
+        "projectUniqueName": "C:\\Thành\\GitHub\\sem2\\C#\\StudentManager\\StudentManager.csproj",
         "projectName": "StudentManager",
-        "projectPath": "C:\\Thành\\GitHub\\sem2\\StudentManager\\StudentManager.csproj",
+        "projectPath": "C:\\Thành\\GitHub\\sem2\\C#\\StudentManager\\StudentManager.csproj",
         "packagesPath": "C:\\Users\\Nguyen Trung Thanh\\.nuget\\packages\\",
-        "outputPath": "C:\\Thành\\GitHub\\sem2\\StudentManager\\obj\\",
+        "outputPath": "C:\\Thành\\GitHub\\sem2\\C#\\StudentManager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nguyen Trung Thanh\\AppData\\Roaming\\NuGet\\NuGet.Config",

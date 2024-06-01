@@ -1,0 +1,15 @@
+C:\Thành\GitHub\sem2\C#\subclass\subclass\bin\Debug\net8.0\subclass.exe
+C:\Thành\GitHub\sem2\C#\subclass\subclass\bin\Debug\net8.0\subclass.deps.json
+C:\Thành\GitHub\sem2\C#\subclass\subclass\bin\Debug\net8.0\subclass.runtimeconfig.json
+C:\Thành\GitHub\sem2\C#\subclass\subclass\bin\Debug\net8.0\subclass.dll
+C:\Thành\GitHub\sem2\C#\subclass\subclass\bin\Debug\net8.0\subclass.pdb
+C:\Thành\GitHub\sem2\C#\subclass\subclass\obj\Debug\net8.0\subclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Thành\GitHub\sem2\C#\subclass\subclass\obj\Debug\net8.0\subclass.AssemblyInfoInputs.cache
+C:\Thành\GitHub\sem2\C#\subclass\subclass\obj\Debug\net8.0\subclass.AssemblyInfo.cs
+C:\Thành\GitHub\sem2\C#\subclass\subclass\obj\Debug\net8.0\subclass.csproj.CoreCompileInputs.cache
+C:\Thành\GitHub\sem2\C#\subclass\subclass\obj\Debug\net8.0\subclass.sourcelink.json
+C:\Thành\GitHub\sem2\C#\subclass\subclass\obj\Debug\net8.0\subclass.dll
+C:\Thành\GitHub\sem2\C#\subclass\subclass\obj\Debug\net8.0\refint\subclass.dll
+C:\Thành\GitHub\sem2\C#\subclass\subclass\obj\Debug\net8.0\subclass.pdb
+C:\Thành\GitHub\sem2\C#\subclass\subclass\obj\Debug\net8.0\subclass.genruntimeconfig.cache
+C:\Thành\GitHub\sem2\C#\subclass\subclass\obj\Debug\net8.0\ref\subclass.dll
