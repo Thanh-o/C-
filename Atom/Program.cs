@@ -17,15 +17,15 @@ namespace Atom
             {
                 Atom atom = new Atom();
 
-                Console.WriteLine("Enter atomic number (or 0 to quit): ");
+                Console.WriteLine("Enter atomic number  : ");
                 atom.Id = Convert.ToInt32(Console.ReadLine());
                 if (atom.Id == 0) break;
 
-                Console.WriteLine("Enter symbol: ");
+                Console.WriteLine("Enter symbol  : ");
                 atom.Symbol = Console.ReadLine();
-                Console.WriteLine("Enter full name: ");
+                Console.WriteLine("Enter full name  : ");
                 atom.FullName = Console.ReadLine();
-                Console.WriteLine("Enter atomic weight: ");
+                Console.WriteLine("Enter atomic weight  : ");
                 atom.Weight = Convert.ToDouble(Console.ReadLine());
 
                 SaveAtomToDatabase(atom);
